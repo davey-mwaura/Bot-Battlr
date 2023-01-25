@@ -7,11 +7,7 @@
   box-shadow: 2px 2px 5px #ccc;
   border-radius: 10px;
   position: relative;
-  /* display: flex;
-  flex-direction: column;
-  align-items: center;
-  text-align: center;
-  margin: 10px; */
+  
 }
 
 
@@ -20,11 +16,6 @@
   width: 100%;
   position: relative;
   top: 0;
-
-  /* width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  margin-bottom: 20px; */
 }
 
 .bot-card h2 {
@@ -55,3 +46,31 @@
   justify-content: center;
   
 }
+
+.YourBotArmy{
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 16px;
+  width: 1200px;
+  margin: 16px;
+  box-shadow: 2px 2px 5px #ccc;
+  border-radius: 10px;
+  position: relative;
+  
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.bot-cardtwo {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 16px;
+  width: 400px;
+  margin: 16px;
+  box-shadow: 2px 2px 5px #ccc;
+  border-radius: 10px;
+  position: relative;
+  margin-top: 80px;
+}
+
